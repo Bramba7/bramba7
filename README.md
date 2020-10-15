@@ -8,7 +8,7 @@
 <a target="_blank" href="mailto:bramba@outlook.com"><img align="left" alt="Outlook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.11.0/icons/microsoftoutlook.svg"/></a>
 </br>
 
----- 
+
 
 
 ## I'm a Husband, Brazilian, Computer Engineer, and old school gamer !!
@@ -20,7 +20,7 @@
 - 🥅 2020 Goals: Survive, work more with DevOps, and cyber security
 - 💬 Ask me about anything 
 
----- 
+
 
 ### 🎧 Spotify Playing: 
 
