@@ -8,7 +8,7 @@
 <a target="_blank" href="mailto:bramba@outlook.com"><img align="left" alt="Outlook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.11.0/icons/microsoftoutlook.svg"/></a>
 </br></br>
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=bramba7.bramba7)
-[![Github](https://img.shields.io/github/followers/bramba7?label=Followers&logo=Github)]
+![Github](https://img.shields.io/github/followers/bramba7?label=Followers&logo=Github)
 
 
 ## I'm a Husband, Brazilian, Computer Engineer, and old school gamer !!
