@@ -41,6 +41,11 @@
 
 ### 📃  Recent Activity:
 <!--START_SECTION:activity-->
+1. 🎉 Merged PR [#1](https://github.com/Bramba7/circleci-jest-cloudformation/pull/1) in [Bramba7/circleci-jest-cloudformation](https://github.com/Bramba7/circleci-jest-cloudformation)
+2. 🎉 Merged PR [#1](https://github.com/Bramba7/Image-Recognition-Using-IBM-Watson-Resources-MacOS/pull/1) in [Bramba7/Image-Recognition-Using-IBM-Watson-Resources-MacOS](https://github.com/Bramba7/Image-Recognition-Using-IBM-Watson-Resources-MacOS)
+3. 🎉 Merged PR [#1](https://github.com/Bramba7/Xadrez-Chess-Game/pull/1) in [Bramba7/Xadrez-Chess-Game](https://github.com/Bramba7/Xadrez-Chess-Game)
+4. 🎉 Merged PR [#1](https://github.com/Bramba7/Local-SocialNetwork-Project/pull/1) in [Bramba7/Local-SocialNetwork-Project](https://github.com/Bramba7/Local-SocialNetwork-Project)
+5. 🎉 Merged PR [#1](https://github.com/Bramba7/Nintendo-Switch-Buy-best-buy/pull/1) in [Bramba7/Nintendo-Switch-Buy-best-buy](https://github.com/Bramba7/Nintendo-Switch-Buy-best-buy)
 <!--END_SECTION:activity-->
 
 
