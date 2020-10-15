@@ -14,7 +14,7 @@
 ## I'm a Husband, Brazilian, Computer Engineer, and old school gamer !!
 
 - 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with anyone on any project.
+- 👯 I’m looking to collaborate with anyone on any project
 - 🤔 I’m looking for help with DevOps
 - 👾 I'm a big fan of Mario Bros and Zelda
 - 🥅 2020 Goals: Survive, work more with DevOps, and cyber security
@@ -26,7 +26,6 @@
 
 [![Spotify](https://novatorem-delta-roan.vercel.app/api/spotify)](https://open.spotify.com/user/ec2fad88341944d2a0cd0f75e844cc91)
 
----- 
 
 ### 💻 Languages and Tools:
 
@@ -38,7 +37,7 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 
----- 
+
 
 ### 📃  Recent Activity:
 
@@ -46,7 +45,7 @@
 
 <!--END_SECTION:activity-->
 
-----  
+
 ### 🏆 My Github Stats:
 
 <img align="left" alt="bramba7's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=bramba7&show_icons=true&hide_border=true" />
