@@ -18,7 +18,7 @@
 ![Github](https://img.shields.io/github/followers/bramba7?label=Followers&logo=Github)
 
 
-## I'm ...!!
+## I'm ...
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with anyone on any project
