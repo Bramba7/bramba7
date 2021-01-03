@@ -18,13 +18,13 @@
 ![Github](https://img.shields.io/github/followers/bramba7?label=Followers&logo=Github)
 
 
-## I'm a Husband, Computer Engineer, and old school gamer from Brazil !!
+## I'm ...!!
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with anyone on any project
 - 🤔 I’m looking for help with DevOps
 - 👾 I'm a big fan of Mario Bros and Zelda
-- 🥅 2020 Goals: Survive 2020 😷, work more with DevOps, and cyber security
+- 🥅 2021 Goals: Survive 2021 😷, work more with DevOps, and cyber security
 - 💬 Ask me about anything 
 
 
