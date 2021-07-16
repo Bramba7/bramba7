@@ -59,7 +59,3 @@
 <!--END_SECTION:activity-->
 
 
-### 🏆 My Github Stats:
-
-<img align="left" alt="bramba7's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=bramba7&show_icons=true&hide_border=true" />
-
