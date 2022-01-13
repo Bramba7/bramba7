@@ -24,7 +24,6 @@
 - 👯 I’m looking to collaborate with anyone on any project
 - 🤔 I’m looking for help with DevOps
 - 👾 I'm a big fan of Mario Bros and Zelda
-- 🥅 2021 Goals: Survive 2021 😷, work more with DevOps, and cyber security
 - 💬 Ask me about anything 
 
 
