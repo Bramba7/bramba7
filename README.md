@@ -2,11 +2,6 @@
 
 
 
-<a target="_blank" href="https://fbmello.com/"><img align="left" alt="WebPage" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" /></a>
-<a target="_blank" href="https://www.instagram.com/bramba7/"><img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /></a>
-<a target="_blank" href="https://dev.to/bramba7/"><img align="left" alt="Devto" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/dev-dot-to.svg" /></a>
-<a target="_blank" href="mailto:bramba@outlook.com"><img align="left" alt="Outlook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.11.0/icons/microsoftoutlook.svg"/></a>
-<a target="_blank" href="https://www.linkedin.com/in/ferdemello"><img align="left" alt="Outlook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.11.0/icons/linkedin.svg"/></a>
 
 </br></br>
 
