@@ -16,8 +16,7 @@
 ## I'm ...
 
 - 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with anyone on any project
-- 🤔 I’m looking for help with DevOps
+- 🤔 I’m looking for help with DevOps, cybersecurity....
 - 👾 I'm a big fan of Mario Bros and Zelda
 - 💬 Ask me about anything 
 
